@@ -1,3 +1,4 @@
+# Create Azure Resources for deployment
 name: Configure Azure environment
 
 on:
